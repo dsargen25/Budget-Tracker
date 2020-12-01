@@ -1,7 +1,7 @@
 
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  ##Online/Offline Budget Tracker
+  # Online/Offline Budget Tracker
 
   ## Table of Contents
   * [Title](#title)
